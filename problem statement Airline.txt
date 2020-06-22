@@ -1,0 +1,5 @@
+A. Find list of Airports operating in the Country India 
+B. Find the list of Airlines having zero stops 
+C. List of Airlines operating with code share 
+D. Which country (or) territory having highest Airports 
+E. Find the list of Active Airlines in United state 

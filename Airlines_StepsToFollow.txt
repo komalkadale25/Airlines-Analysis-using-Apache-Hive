@@ -1,0 +1,7 @@
+
+1. Basic Operations used in hive
+2. Required steps before performing problem statement
+
+-----------Final Solution--------------
+3. Problem Solution: Part 1 
+4. Problem Solution: Part 2
