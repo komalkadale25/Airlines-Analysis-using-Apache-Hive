@@ -3,7 +3,7 @@ ApacheHive
 
 Steps:
 
-Required steps before performing problem statement
+Required steps before performing problem statement: Airlines_Hive_Komal.pdf
 
 1. Basic Operations used in hive
 2. Store Files on HDFS to perform operations
