@@ -9,5 +9,7 @@ Required steps before performing problem statement
 2. Store Files on HDFS to perform operations
 
 -----------Final Solution--------------
+
+
 3. Problem Solution: Part 1 
 4. Problem Solution: Part 2
